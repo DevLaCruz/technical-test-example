@@ -108,3 +108,4 @@ Si no te alcanza el tiempo, igual puedes enviar lo que tengas. La evaluación se
 - El uso de IA está permitido, pero debes entender el código que entregues
 - Sube a un repositorio GitHub público
 - Incluye `.env.example`
+- Puedes crear una instancia MongoDB funcional y gratuita en https://www.mongodb.com/cloud/atlas/register
