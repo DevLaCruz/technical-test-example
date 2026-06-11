@@ -1,0 +1,48 @@
+node_modules
+
+# lockfiles (each dev uses their own)
+bun.lock
+
+# output
+dist
+dist-ssr
+out
+*.tgz
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+report.[0-9]_.[0-9]_.[0-9]_.[0-9]_*.json
+
+# dotenv
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+*.local
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
