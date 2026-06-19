@@ -12,6 +12,7 @@ out
 # code coverage
 coverage
 *.lcov
+.agents/
 
 # logs
 logs
